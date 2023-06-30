@@ -1,3 +1,5 @@
+package comida;
+
 public class costa extends comida_tipica {
     //atributos
     private String especias_fuertes;

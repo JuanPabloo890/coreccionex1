@@ -1,3 +1,4 @@
+package comida;
 
 public class comida_tipica {
     //atributos
@@ -43,5 +44,6 @@ public class comida_tipica {
     public void setNcalorias(int ncalorias) {
         this.ncalorias = ncalorias;
     }
+
 }
 

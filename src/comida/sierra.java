@@ -1,3 +1,5 @@
+package comida;
+
 public class sierra extends costa{
     private String proteina;
     private String salsa;

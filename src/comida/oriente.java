@@ -1,3 +1,4 @@
+package comida;
 
 public class oriente extends sierra {
     private String tipo_plato;
